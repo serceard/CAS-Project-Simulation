@@ -1,3 +1,3 @@
-# CAS-ARE
+# Agile IT Project Simulation
 
-Deployment Demo for CAS ARE
+Deployment Demo, please replace pdf-File with your content (use same filename)
